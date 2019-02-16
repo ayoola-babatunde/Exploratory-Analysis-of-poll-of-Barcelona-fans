@@ -4,3 +4,5 @@ Analysis, machine learning, and prediction of a poll of Barcelona Football Club 
 I tested an hypothesis on whether the fans who were polled liked the current coach's decisions. 
 
 I also did some fun testing of the central limit theorem. 
+
+Machine learning and prediction coming soon. 
